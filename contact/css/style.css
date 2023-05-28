@@ -64,11 +64,11 @@ footer {
     background-color: #BD9147;
     padding: 20px 0;
     text-align: center;
-    font-family: 'Roboto Mono', monospace; ;
+    font-family: 'Roboto Mono', monospace;
   }
   
   .container {
-    max-width: 960px;
+    max-width: 100%;
     margin: 0 auto;
   }
   
